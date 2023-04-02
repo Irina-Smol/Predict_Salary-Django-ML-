@@ -10,4 +10,4 @@
 
 ![2](https://sun9-20.userapi.com/impg/OQ3QBKP8pERjNLKwFqZK3V_QvdNO8lhRSCUncA/XyqenFTWNsk.jpg?size=1588x379&quality=96&sign=c247de471466d7ed78f75d05d445ef38&type=album)
 
-Для обучения модели была использована линейная регрессия.
+Для обучения модели была использована линейная регрессия. Вебсайт написан на фреймворке Django.
